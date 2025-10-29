@@ -1,12 +1,12 @@
                Movimentação de Peças de Xadrez
 
-📋 Descrição do Projeto
+ Descrição do Projeto
 Sistema desenvolvido em linguagem C que simula o movimento de peças específicas de xadrez utilizando estruturas de repetição (for, while, do-while), loops aninados e recursividade. O projeto é dividido em três módulos de complexidade crescente.
 
-🎯 Cenário
+ Cenário
 A MateCheck , desenvolvedora de jogos, criou um jogo eletrônico inovador para o ensino de programação e incentivo ao xadrez. No jogo, o jogador não move as peças manualmente, mas cria procedimentos e rotinas em código para executar as ações, respeitando as regras do xadrez e a sintaxe da linguagem C.
 
-📁 Estrutura do Projeto
+ Estrutura do Projeto
 graduacao-estacio-xadrez/
   src/
   modulo_novato/
